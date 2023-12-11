@@ -12,3 +12,17 @@ C:\Users\pedro\OneDrive\Documentos\VsCodigos\AssessmentC#\AssessmentC#\obj\Debug
 C:\Users\pedro\OneDrive\Documentos\VsCodigos\AssessmentC#\AssessmentC#\obj\Debug\net7.0\AssessmentC#.pdb
 C:\Users\pedro\OneDrive\Documentos\VsCodigos\AssessmentC#\AssessmentC#\obj\Debug\net7.0\AssessmentC#.genruntimeconfig.cache
 C:\Users\pedro\OneDrive\Documentos\VsCodigos\AssessmentC#\AssessmentC#\obj\Debug\net7.0\ref\AssessmentC#.dll
+C:\Users\pedro\Downloads\Assessment-DR2\AssessmentC#\bin\Debug\net7.0\AssessmentC#.exe
+C:\Users\pedro\Downloads\Assessment-DR2\AssessmentC#\bin\Debug\net7.0\AssessmentC#.deps.json
+C:\Users\pedro\Downloads\Assessment-DR2\AssessmentC#\bin\Debug\net7.0\AssessmentC#.runtimeconfig.json
+C:\Users\pedro\Downloads\Assessment-DR2\AssessmentC#\bin\Debug\net7.0\AssessmentC#.dll
+C:\Users\pedro\Downloads\Assessment-DR2\AssessmentC#\bin\Debug\net7.0\AssessmentC#.pdb
+C:\Users\pedro\Downloads\Assessment-DR2\AssessmentC#\obj\Debug\net7.0\AssessmentC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\Downloads\Assessment-DR2\AssessmentC#\obj\Debug\net7.0\AssessmentC#.AssemblyInfoInputs.cache
+C:\Users\pedro\Downloads\Assessment-DR2\AssessmentC#\obj\Debug\net7.0\AssessmentC#.AssemblyInfo.cs
+C:\Users\pedro\Downloads\Assessment-DR2\AssessmentC#\obj\Debug\net7.0\AssessmentC#.csproj.CoreCompileInputs.cache
+C:\Users\pedro\Downloads\Assessment-DR2\AssessmentC#\obj\Debug\net7.0\AssessmentC#.dll
+C:\Users\pedro\Downloads\Assessment-DR2\AssessmentC#\obj\Debug\net7.0\refint\AssessmentC#.dll
+C:\Users\pedro\Downloads\Assessment-DR2\AssessmentC#\obj\Debug\net7.0\AssessmentC#.pdb
+C:\Users\pedro\Downloads\Assessment-DR2\AssessmentC#\obj\Debug\net7.0\AssessmentC#.genruntimeconfig.cache
+C:\Users\pedro\Downloads\Assessment-DR2\AssessmentC#\obj\Debug\net7.0\ref\AssessmentC#.dll

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\pedro\\OneDrive\\Documentos\\VsCodigos\\AssessmentC#\\AssessmentC#\\AssessmentC#.csproj",
+      "projectUniqueName": "C:\\Users\\pedro\\Downloads\\Assessment-DR2\\AssessmentC#\\AssessmentC#.csproj",
       "projectName": "AssessmentC#",
-      "projectPath": "C:\\Users\\pedro\\OneDrive\\Documentos\\VsCodigos\\AssessmentC#\\AssessmentC#\\AssessmentC#.csproj",
+      "projectPath": "C:\\Users\\pedro\\Downloads\\Assessment-DR2\\AssessmentC#\\AssessmentC#.csproj",
       "packagesPath": "C:\\Users\\pedro\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\pedro\\OneDrive\\Documentos\\VsCodigos\\AssessmentC#\\AssessmentC#\\obj\\",
+      "outputPath": "C:\\Users\\pedro\\Downloads\\Assessment-DR2\\AssessmentC#\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\pedro\\AppData\\Roaming\\NuGet\\NuGet.Config"

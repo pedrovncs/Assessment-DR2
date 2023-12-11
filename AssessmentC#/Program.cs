@@ -133,7 +133,7 @@ internal class Program
         Console.WriteLine("Músicas:");
         foreach (var musica in artista.Musicas)
         {
-            Console.WriteLine($"- {musica}");
+            Console.WriteLine($"- {musica.Nome}");
         }
         Console.WriteLine("\n");
     }

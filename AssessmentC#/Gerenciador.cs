@@ -120,7 +120,7 @@ public class Gerenciador
             return;
         }
 
-        artistaExistente.Musicas.Add(musica.Nome);
+        artistaExistente.Musicas.Add(musica);
         this.Musicas.Add(musica);
         Console.WriteLine("Música cadastrada com sucesso! \n");
     }
@@ -136,7 +136,7 @@ public class Gerenciador
             return;
         }
 
-        artistaExistente.Musicas.Remove(musica.Nome);
+        artistaExistente.Musicas.Remove(musica);
         this.Musicas.Remove(musica);
         Console.WriteLine($"A música {musica.Nome} foi removida com sucesso! \n");
     }
@@ -153,7 +153,7 @@ public class Gerenciador
 
         foreach (var musica in artista.Musicas)
         {
-            this.Musicas.Remove(BuscarMusicaPorNome(musica));
+            this.Musicas.Remove(musica);
         }
 
         this.Artistas.Remove(artista);
